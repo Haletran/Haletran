@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Baptiste PASQUIER aka. Haletran </h1>
+<h2 align='center'> Not a good programmer </h2>
 
-<!--
-**Haletran/Haletran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Student at University of Poitiers in LEA 🇫🇷
+- Ask me about GNU/Linux or Animes
+- Reach me on Discord : Baptiste#9943
+- Languages enjoyer 🇫🇷 🇬🇧 🇸🇦 🇷🇺
 
-Here are some ideas to get you started:
+### 🖥️ Programming languages : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JAVASCRIPT
+- PYTHON
+
+### 🔧Tools :
+
+- LINUX 
+- VSCODE
+- WINDOWS
+
+
+<h3 align="left">Visitors:</h3>
+<p><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Haletran" alt="haletran" /></p>
