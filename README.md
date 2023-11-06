@@ -17,7 +17,7 @@ Here are some of the projects I've been working on:
 
 ## 📈 GitHub Stats
 
-[![Haletran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haletran)](https://github.com/Haletran/github-readme-stats)
+[![Haletran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haletran&show_icons=true&theme=dark)](https://github.com/Haletran/github-readme-stats)
 
 ## 📚 Latest Blog Posts
 
