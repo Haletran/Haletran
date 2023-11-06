@@ -1,4 +1,4 @@
-# Hi there, I'm Baptiste PASQUIER aka. Haletran 👋
+<h2 align='center'>Hi there, I'm Baptiste PASQUIER aka. Haletran 👋</h2>
 <h3 align='center'> Not a good programmer </h3>
 
 I'm a student at 42 Angouleme, passionate about linux, open-source and servers.
