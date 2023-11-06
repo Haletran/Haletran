@@ -12,7 +12,7 @@ I'm a student at 42 Angouleme, passionate about linux, open-source and servers.
 Here are some of the projects I've been working on:
 
 1. [42-Cursus](https://github.com/Haletran/42-Cursus) - Projects from 42-cursus.
-2. [42-Black_is_back](https://github.com/Haletran/42-Blackholeisback) - Bringing back the old 42 blackhole.
+2. [42-Blackhole_is_back](https://github.com/Haletran/42-Blackholeisback) - Bringing back the old 42 blackhole.
 3. [Deboostrap Podman](https://github.com/Haletran/Deboostrap-Podman) - Create a debian container in podman
 
 ## 📈 GitHub Stats
