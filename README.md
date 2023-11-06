@@ -19,6 +19,9 @@ Here are some of the projects I've been working on:
 
 [![Haletran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haletran&show_icons=true&theme=dark)](https://github.com/Haletran/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haletran)](https://github.com/Haletran/github-readme-stats)
+
+
 ## 📚 Latest Blog Posts
 
 - [History of GNU/Linux](https://baptistepasquier.xyz/articles/article1/)
