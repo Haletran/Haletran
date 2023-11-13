@@ -4,7 +4,7 @@
 
 I'm a student at 42 Angouleme, passionate about linux, open-source and servers.
 
-- 🌱 I'm currently learning C, JS and Ruby.
+- 🌱 I'm currently learning C JS and Ruby.
 - 📫 You can reach me at <a href="mailto:bpasquier1234@gmail.com">bpasquier1234@gmail.com</a>.
 
 ## 🚀 Projects
