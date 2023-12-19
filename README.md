@@ -4,7 +4,7 @@
 
 I'm a student at 42 Angouleme, passionate about linux, open-source and servers.
 
-- 🌱 I'm currently learning C and Ruby.
+- 🌱 I'm currently learning C.
 - 📫 You can reach me at <a href="mailto:bpasquier1234@gmail.com">bpasquier1234@gmail.com</a>.
 
 ## 🚀 Projects
@@ -16,12 +16,11 @@ Here are some of the projects I've been working on:
 3. [Deboostrap Podman](https://github.com/Haletran/Deboostrap-Podman) - Create a debian container in podman
 4. [MinVim](https://github.com/Haletran/MinVim) - Minimalistic vim config for 42
 
-## 📈 GitHub Stats
+<details>
+<summary><h2>📈 GitHub Stats</h2></summary>
 
 [![Haletran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haletran&show_icons=true&theme=dark)](https://github.com/Haletran/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haletran&theme=dark)](https://github.com/Haletran/github-readme-stats)
-
+</details>
 
 ## 📚 Latest Blog Posts
 
