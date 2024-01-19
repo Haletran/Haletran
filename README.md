@@ -7,6 +7,8 @@ I'm a student at 42 Angouleme, passionate about linux, open-source and servers.
 - 🌱 I'm currently learning C.
 - 📫 You can reach me at <a href="mailto:bpasquier1234@gmail.com">bpasquier1234@gmail.com</a>.
 
+[![bapasqui's 42 stats](https://badge.mediaplus.ma/colorfulwaves/bapasqui?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ## 🚀 Projects
 
 Here are some of the projects I've been working on:
