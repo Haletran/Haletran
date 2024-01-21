@@ -2,7 +2,7 @@
 <h3 align='center'> Not a good programmer </h3>
 <hr>
 
-[![bapasqui's 42 stats](https://badge.mediaplus.ma/binary/bapasqui?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/bapasqui)
+[![bapasqui's 42 stats](https://badge42.coday.fr/api/v2/clrnzvaem265601p42f34hzz5/stats?cursusId=21&coalitionId=219)](https://profile.intra.42.fr/users/bapasqui)
 
 I'm a student at 42 Angouleme, passionate about linux, open-source and servers.
 - 🌱 I'm currently learning C.
