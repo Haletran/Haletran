@@ -15,7 +15,6 @@ Here are some of the projects I've been working on:
 1. [42-Cursus](https://github.com/Haletran/42-Cursus) - Projects from 42-cursus.
 2. [Deboostrap Podman](https://github.com/Haletran/Deboostrap-Podman) - Create a debian container in podman
 3. [MinVim](https://github.com/Haletran/MinVim) - Minimalistic vim config for 42
-4. [42-Blackhole_is_back](https://github.com/Haletran/42-Blackholeisback) - Bringing back the old 42 blackhole.
 
 <details>
 <summary><h2>📈 GitHub Stats</h2></summary>
