@@ -20,7 +20,7 @@ Here are some of the projects I've been working on:
 
 1. [42-Cursus](https://github.com/Haletran/42-Cursus) - Projects from 42-cursus.
 2. [Deboostrap Podman](https://github.com/Haletran/Deboostrap-Podman) - Create a debian container in podman
-3. [MinVim](https://github.com/Haletran/MinVim) - Minimalistic vim config for 42
+3. [Minishell](https://github.com/Haletran/42_Minishell) - Implementation of bash in C
 4. [Pong_in_lua](https://github.com/Haletran/Pong_in_lua) - Lua implementation of the famous Pong game
 
 ## 📚 Latest Blog Posts
