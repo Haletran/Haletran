@@ -23,11 +23,5 @@ Here are some of the projects I've been working on:
 3. [Minishell](https://github.com/Haletran/42_Minishell) - Implementation of bash in C
 4. [Pong_in_lua](https://github.com/Haletran/Pong_in_lua) - Lua implementation of the famous Pong game
 
-## 📚 Latest Blog Posts
-
-- [History of GNU/Linux](https://baptistepasquier.xyz/articles/article1/)
-- [My Home Server](https://baptistepasquier.xyz/articles/article4/)
-- [Setting Up Plex Media Server](https://baptistepasquier.xyz/guides/guide4/)
-
 Feel free to explore my repositories, contribute to projects, or reach out for collaborations. 😄
 
