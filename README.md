@@ -5,7 +5,7 @@
 [![bapasqui's 42 stats](https://badge42.coday.fr/api/v2/clrnzvaem265601p42f34hzz5/stats?cursusId=21&coalitionId=219)](https://profile.intra.42.fr/users/bapasqui)
 
 I'm a student at 42 Angouleme, passionate about linux and open-source.
-- 🌱 I'm currently learning C.
+- 🌱 I'm currently learning C++.
 - 📫 You can reach me at <a href="mailto:bapasqui@student.42angouleme.fr">bapasqui@student.42angouleme.fr</a>.
 <details>
 <summary>📈 GitHub Stats</summary>
