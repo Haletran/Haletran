@@ -19,8 +19,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
 Here are some of the projects I've been working on:
 
 1. [42-Cursus](https://github.com/Haletran/42-Cursus) - Projects from 42-cursus.
-2. [Guess the Login](https://github.com/Haletran/Guess-the-Login) - Game where the objective is to identify the user's login based on their profile picture.
-3. [42Angouleme Classsement](https://github.com/Haletran/42Angouleme.classement) - Dynamic ranking system for 42 Angoulême students
+2. [42Angouleme Classsement](https://github.com/Haletran/42Angouleme.classement) - Dynamic ranking system for 42 Angoulême students
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaborations. 😄
 
