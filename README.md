@@ -5,7 +5,7 @@
 [![bapasqui's 42 stats](https://badge.mediaplus.ma/colorfulwaves/bapasqui?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 I'm a student at 42 Angouleme, passionate about linux and open-source.
-- 🌱 I'm currently learning C++.
+- 🌱 I'm currently learning something...
 - 📫 You can reach me at <a href="mailto:bapasqui@student.42angouleme.fr">bapasqui@student.42angouleme.fr</a>.
 <details>
 <summary>📈 GitHub Stats</summary>
@@ -19,7 +19,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
 Here are some of the projects I've been working on:
 
 1. [42-Cursus](https://github.com/Haletran/42-Cursus) - Projects from 42-cursus.
-2. [42Angouleme Classsement](https://github.com/Haletran/42Angouleme.classement) - Dynamic ranking system for 42 Angoulême students
+2. [42Insights](https://github.com/fZpHr/42insight) - The best site for every 42 Angouleme Students
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaborations. 😄
 
