@@ -18,13 +18,13 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
 ## RNCP 7 - Network informations Systems Architecture
 
 - System Administration :
-  - [ ] Inceptions of things
-  - [ ] Cloud-1
+  - [ ] [Inceptions of things](https://github.com/Haletran/42_Inception-of-things)
+  - [ ] [Cloud-1](https://github.com/Haletran/42_Cloud-1)
   - [ ] Ft-ping
   - [ ] Ft-traceroute
  
 - Unix :
-  - [ ] Zappy
+  - [ ] [Zappy](https://github.com/fZpHr/zappy_42)
   - [ ] ft_linux
   - [ ] libasm
 
@@ -33,7 +33,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
   - [ ] ft_malcolm
   - [ ] ft_shield
   - [ ] Famine
-  - [ ] Cybersecurity piscine
+  - [ ] [Cybersecurity piscine](https://github.com/Haletran/42_Cybersecurity-Piscine)
 
 ## 🚀 Projects
 
