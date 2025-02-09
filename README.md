@@ -25,7 +25,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
  
 - Unix :
   - [ ] [Zappy](https://github.com/fZpHr/zappy_42)
-  - [ ] ft_linux
+  - [ ] [ft_linux](https://github.com/Haletran/42_ft_linux)
   - [ ] libasm
 
 - Security :
