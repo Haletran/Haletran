@@ -15,8 +15,12 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
 [![Haletran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haletran&show_icons=true&theme=dark)](https://github.com/Haletran/github-readme-stats)
 </details>
 
+
 ## RNCP 7 - Network informations Systems Architecture
 
+<details>
+  <summary>List of all the project, I need to do : </summary>
+  
 - System Administration :
   - [x] [Inceptions of things](https://github.com/Haletran/42_Inception-of-things)
   - [ ] [Cloud-1](https://github.com/Haletran/42_Cloud-1)
@@ -34,6 +38,12 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
   - [ ] ft_shield
   - [ ] Famine
   - [ ] [Cybersecurity piscine](https://github.com/Haletran/42_Cybersecurity-Piscine)
+ 
+- Others (more XP please) :
+    - [x] [Swifty-Companion](https://github.com/Haletran/42_swifty-companion)
+    - [ ] [Hypertube](https://github.com/Haletran/42_Hypertube)
+    - [ ] [Ftl_Quantum](https://github.com/Haletran/42_Ftl_quantum)
+</details>
 
 ## 🚀 Projects
 
