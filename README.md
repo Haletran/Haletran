@@ -43,6 +43,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
     - [x] [Swifty-Companion](https://github.com/Haletran/42_swifty-companion)
     - [ ] [Hypertube](https://github.com/Haletran/42_Hypertube)
     - [ ] [Ftl_Quantum](https://github.com/Haletran/42_Ftl_quantum)
+    - [ ] [Dr_Quine](https://github.com/Haletran/42_Dr_Quine)
 </details>
 
 ## 🚀 Projects
