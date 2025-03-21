@@ -23,7 +23,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
   
 - System Administration :
   - [x] [Inceptions of things](https://github.com/Haletran/42_Inception-of-things)
-  - [ ] [Cloud-1](https://github.com/Haletran/42_Cloud-1)
+  - [ ] [Cloud-1](https://github.com/Haletran/42_Cloud-1) (finished but not validated)
   - [ ] Ft-ping
   - [ ] Ft-traceroute
  
@@ -43,7 +43,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
     - [x] [Swifty-Companion](https://github.com/Haletran/42_swifty-companion)
     - [ ] [Hypertube](https://github.com/Haletran/42_Hypertube)
     - [ ] [Ftl_Quantum](https://github.com/Haletran/42_Ftl_quantum)
-    - [ ] [Dr_Quine](https://github.com/Haletran/42_Dr_Quine)
+    - [ ] [Dr_Quine](https://github.com/Haletran/42_Dr_Quine) (finished but not validated)
 </details>
 
 ## 🚀 Projects
