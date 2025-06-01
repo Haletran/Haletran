@@ -6,7 +6,6 @@
 
 I'm a student at 42 Angouleme, passionate about linux and open-source.
 - 🌱 I'm currently learning something...
-- 🔎 Searching for a 2 year Apprenticship in Cybersecurity or in Web
 - 📫 You can reach me at <a href="mailto:bapasqui@student.42angouleme.fr">bapasqui@student.42angouleme.fr</a>.
 <details>
 <summary>📈 GitHub Stats</summary>
@@ -26,6 +25,7 @@ I'm a student at 42 Angouleme, passionate about linux and open-source.
   - [ ] [Cloud-1](https://github.com/Haletran/42_Cloud-1) (finished but not validated)
   - [ ] Ft-ping
   - [ ] Ft-traceroute
+  - [ ] nm
  
 - Unix :
   - [ ] [Zappy](https://github.com/fZpHr/zappy_42)
