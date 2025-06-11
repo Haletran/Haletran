@@ -7,7 +7,7 @@ I believe in learning by building — crafting tools and projects in **most prog
 
 Seeking for a **2‑year apprenticeship** in **Devops/SysAdmin** or **Web Development**. 
 
--> 📫 Reach me on : bapasqui@student.42angouleme.fr
+📫 You can reach me at : bapasqui@student.42angouleme.fr
 
 #### 🚀 What I’m working on:
 - **42‑Cursus** : A central index of my Common Core 42 projects — from `libft` to `Ft_Transcendence` ([repo](https://github.com/Haletran/42-Cursus))
