@@ -1,7 +1,7 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643515243/12618/party_blob.gif?1643515243" width="25"/>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="25"/>
+> Not a good programmer, nor a pro-gamer
 
 I’m [Baptiste PASQUIER](https://baptistepasquier.xyz/) (*aka* **Haletran**), a student at [42 Angoulême](https://github.com/42Angouleme) passionate about open-source development.
-> Not a good programmer, nor a pro-gamer
 
 I believe in learning by building — crafting tools and projects in **most programming languages** to sharpen my skills.
 
