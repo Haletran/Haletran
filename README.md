@@ -1,59 +1,15 @@
-<h1 align='center'>Hi there, I'm Baptiste PASQUIER 👋</h1>
-<h3 align='center'> Not a good programmer </h3>
-<hr>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643515243/12618/party_blob.gif?1643515243" width="25"/>
 
-[![bapasqui's 42 stats](https://badge.mediaplus.ma/colorfulwaves/bapasqui?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+I’m [Baptiste PASQUIER](https://baptistepasquier.xyz/) (*aka* **Haletran**), a student at [42 Angoulême](https://github.com/42Angouleme) passionate open-source development.
+> Not a good programmer, nor a pro-gamer
 
-I'm a student at 42 Angouleme, passionate about linux and open-source.
-- 🌱 I'm currently learning something...
-- 📫 You can reach me at <a href="mailto:bapasqui@student.42angouleme.fr">bapasqui@student.42angouleme.fr</a>.
-<details>
-<summary>📈 GitHub Stats</summary>
-<br>
+I believe in learning by building — crafting tools and projects in **most programming languages** to sharpen my skills.
 
-[![Haletran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haletran&show_icons=true&theme=dark)](https://github.com/Haletran/github-readme-stats)
-</details>
+Seeking for a **2‑year apprenticeship** in **Devops/SysAdmin** or **Web Development**. 
 
+-> 📫 Reach me on : bapasqui@student.42angouleme.fr
 
-## RNCP 7 - Network informations Systems Architecture
-
-<details>
-  <summary>List of all the project, I need to do : </summary>
-  
-- System Administration :
-  - [x] [Inceptions of things](https://github.com/Haletran/42_Inception-of-things)
-  - [ ] [Cloud-1](https://github.com/Haletran/42_Cloud-1) (finished but not validated)
-  - [ ] Ft-ping
-  - [ ] Ft-traceroute
-  - [ ] nm
- 
-- Unix :
-  - [ ] [Zappy](https://github.com/fZpHr/zappy_42)
-  - [ ] [ft_linux](https://github.com/Haletran/42_ft_linux)
-  - [ ] libasm
-
-- Security :
-  - [ ] Darkly
-  - [ ] ft_malcolm
-  - [ ] ft_shield
-  - [ ] Famine
-  - [ ] [Cybersecurity piscine](https://github.com/Haletran/42_Cybersecurity-Piscine)
- 
-- Others (more XP please) :
-    - [x] [Swifty-Companion](https://github.com/Haletran/42_swifty-companion)
-    - [ ] [Hypertube](https://github.com/Haletran/42_Hypertube)
-    - [ ] [Ftl_Quantum](https://github.com/Haletran/42_Ftl_quantum)
-    - [ ] [Dr_Quine](https://github.com/Haletran/42_Dr_Quine) (finished but not validated)
-</details>
-
-## 🚀 Projects
-
-Here are some of the projects I've been working on:
-
-1. [42-Cursus](https://github.com/Haletran/42-Cursus) - Projects from 42-cursus.
-2. [42Insights](https://github.com/fZpHr/42insight) - The best site for every 42 Angouleme Students
-
-
-
-Feel free to explore my repositories, contribute to projects, or reach out for collaborations. 😄
-
+#### 🚀 What I’m working on:
+- **42‑Cursus**: A central index of my Common Core 42 projects — from `libft` to `Ft_Transcendence`
+- **42-OC** : A central index of my Outer Core 42 projects
+- **42Insight**: A platform for 42 Angoulême students featuring rankings and trombinoscope
