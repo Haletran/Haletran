@@ -12,4 +12,4 @@ Seeking for a **2‑year apprenticeship** in **Devops/SysAdmin** or **Web Develo
 #### 🚀 What I’m working on:
 - **42‑Cursus** : A central index of my Common Core 42 projects — from `libft` to `Ft_Transcendence` ([repo](https://github.com/Haletran/42-Cursus))
 - **42-OC** : A central index of my Outer Core 42 projects
-- **42Insight**: A platform for 42 Angoulême students featuring rankings and trombinoscope ([repo](https://github.com/fZpHr/42insight))
+- **42Insight**: The one-for-all platform for 42 Angoulême students
